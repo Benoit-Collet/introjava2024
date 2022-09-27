@@ -74,11 +74,12 @@ public class App {
         scan1.close();
     }
     public static void main(String[] args) {
-        //ex1();
-        //ex2();
-        //ex3();
-        //ex4();
-        //ex5();   
+        //supprimer les deux "//" devant "exox();"pour lancé l'exercice
+        //exo1();//Disons qu’il est 12 h 34 min 56 s (utilisez des variables). Écrire un programme affiche le nombre de secondes écoulées depuis minuit. La sortie (l'affichage à l'écran)
+        //exo2();//Même chose mais l'heure exacte courante est demandée à l'utilisateur 
+        //exo3();//Même chose que 2 mais la sortie précise cette fois le nombre de secondes avant minuit :
+        //exo4();//Calculez le pourcentage de temps écoulé depuis le début de l'exercice par rapport aux 24 heures d'une journée
+        //exo5();//Le but est de programmer un tout petit jeu, une sorte de « Devinez le nombre ». Une fois terminé, vous devez avoir exactement la sortie suivante   
         //phrase();
     }
 }
